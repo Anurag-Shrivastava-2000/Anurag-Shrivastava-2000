@@ -3,40 +3,37 @@
 
 ---
 
-🌱 I’m currently learning **Data Analysis, Machine Learning, Deep Learning and MLOps with Aws**  
-💡 I love solving real-world problems with data  
+🌱 Currently learning **Data Analysis, Machine Learning, MLOps with Azure, and LLMs**  
 📊 Recent Project: **Loan Approval Classifier using Perceptron**  
-🔍 Currently working on **EDA + Hypothesis Testing on Yulu Dataset**  
-🧠 Exploring **DSA, Model Deployment, and Large Language Models**
+🔍 Working on: **EDA & Hypothesis Testing on Yulu Dataset**  
+🧠 Exploring **DSA, Model Deployment, and LLMs**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure)
+- **Languages**: Python, SQL  
+- **Libraries**: Pandas, NumPy, Matplotlib, scikit-learn  
+- **Tools**: Jupyter, Git, Azure (Learning), Excel  
+- **Concepts**: EDA, ML Algorithms, Hypothesis Testing, Model Evaluation
 
 ---
 
-### 🔥 My GitHub Stats
+## 🚀 Featured Projects
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag-Shrivastava-2000&show_icons=true&theme=radical)
+🔹 Kaggle- Titanic Competition (XgBoost Classifier)]*(https://github.com/Anurag-Shrivastava-2000/Titanic)*
+→ A binary classifier built using a custom XgBoost Classifier algorithm to predict passenger's survival.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Shrivastava-2000&layout=compact&theme=radical)
+🔹 [Yulu EDA & Hypothesis Testing](#) *(https://github.com/Anurag-Shrivastava-2000/Yulu_Hypothesis_Testing)*  
+→ In-depth data analysis on ride-sharing data with statistical testing for insights.
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-shrivastava-2000/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-shrivastava-2000/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Anurag-Shrivastava-2000)
 
 ---
 
-🔍 *Open to opportunities in Data Analysis | ML | Data Science*
-
+🚀 *Open to opportunities in Data Analytics, Machine Learning, and Data Science*
