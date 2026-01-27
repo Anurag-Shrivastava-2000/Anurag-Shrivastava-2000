@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anurag Shrivastava</h1>
-<h3 align="center">Aspiring Data Scientist | ML Enthusiast | Python & SQL Explorer</h3>
+<h3 align="center">Aspiring Data Scientist | AI/ML Enthusiast | Python & SQL Explorer</h3>
 
 ---
 
-🌱 Currently learning **Data Analysis, Machine Learning, MLOps with Azure, and LLMs**  
-📊 Recent Project: **Loan Approval Classifier using Perceptron**  
-🔍 Working on: **EDA & Hypothesis Testing on Yulu Dataset**  
-🧠 Exploring **DSA, Model Deployment, and LLMs**
+🌱 Currently learning **Data Science, Machine Learning, MLOps with AWS and LLMs**  
+📊 Recent Project: **Arc Wildlife Classifier**  
+🔍 Working on: **Customer Churn with Model Deployment**  
+🧠 Exploring **Model Deployment, and LLMs**
 
 ---
 
@@ -14,8 +14,8 @@
 
 - **Languages**: Python, SQL  
 - **Libraries**: Pandas, NumPy, Matplotlib, scikit-learn  
-- **Tools**: Jupyter, Git, Azure (Learning), Excel  
-- **Concepts**: EDA, ML Algorithms, Hypothesis Testing, Model Evaluation
+- **Tools**: Jupyter, Git, AWS (Learning), Excel  
+- **Concepts**: EDA, ML Algorithms, Hypothesis Testing, Model Evaluation, Deep Learning, LLMs, Gen-Ai
 
 ---
 
